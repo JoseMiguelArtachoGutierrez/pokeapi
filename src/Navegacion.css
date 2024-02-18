@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo{
+    width: 10rem;
+    height: 10rem;
+}
+.contenedor__header{
+    background-color: #198754;
+    height: 20vh;
+}
+.contenedor__header>ul{
+    margin-right: 3rem;
+}
+.contenedor__header>*{
+    list-style: none;
+    
+    font-size: xx-large;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.usuario{
+    width: 4rem;
+    height: 4rem;
+}
+.logueado{
+    width: 5rem;
+    height: 4rem;
+    border-radius: 50%;
+    padding: 0;
+}
+.logueado>*{
+    border-radius: 50%;
+}

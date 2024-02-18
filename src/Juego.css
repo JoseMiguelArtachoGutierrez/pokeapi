@@ -1,0 +1,56 @@
+.contenedor__tipo{
+    width: 10%;
+    padding: 0.2rem;
+    
+}
+.imagenBlanco{
+    width: 8rem;
+    height: 3rem;
+}
+.imagenPokemon{
+    width: 7rem;
+    height: 7rem;
+}
+.tipos{
+    width: 8rem;
+    height: 3rem;
+}
+
+.linea{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    width: 100%;
+    height: 0.1rem;
+    background-color: #198754 ;
+}
+.mensaje{
+    position: absolute;
+}
+.mensaje>h1{
+    background-color: #198754;
+    border-radius: 20px;
+    padding: 2rem;
+    font-weight: bold;
+    -webkit-text-stroke: 1px white;
+    color: #198754;
+}
+.total{
+    margin-top: 2rem;
+}
+.h1{
+    -webkit-text-stroke: 2px #198754;
+    color: white;
+}
+.nuevoBoton{
+    border: 2px solid #198754;
+    padding: 0.4rem;
+    color: #198754;
+    font-weight: 600;
+}
+.p{
+    font-size: xx-large;
+    margin-bottom: 0.2rem;
+    color: #198754;
+    font-weight: bold;
+    
+}
